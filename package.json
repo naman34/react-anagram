@@ -1,0 +1,23 @@
+{
+  "name": "react-anagram",
+  "version": "1.0.0",
+  "description": "An experiment with fixed-width fonts for simple anagrams with React.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react.js",
+    "react",
+    "react-component",
+    "anagram",
+    "animation"
+  ],
+  "author": "Naman Goel",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "react-tools": "file:react",
+    "webpack": "^1.4.13"
+  }
+}
